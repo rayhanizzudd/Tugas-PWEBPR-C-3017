@@ -505,6 +505,9 @@
   .cita1 {
     display: none;
   }
+  .cita2 {
+    display: none;
+  }
 
   .btnmini {
     display: flex;
