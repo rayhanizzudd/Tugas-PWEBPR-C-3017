@@ -531,7 +531,6 @@
     align-items: center;
     gap: 29px;
     width: 289px;
-    /* z-index: -1; */
   }
 
   .minibox2 {
@@ -550,8 +549,7 @@
     width: 212px;
     height: 45px;
     background-color: #e36415;
-    /* z-index: 1; */
-    margin-top: -185px;
+    margin-top: -95px;
     margin-left: 0;
     font-size: 20px;
   }
@@ -560,10 +558,10 @@
     width: 212px;
     height: 45px;
     background-color: #3279af;
-    /* z-index: 1; */
-    margin-top: -185px;
+    margin-top: -95px;
     margin-left: 0;
     font-size: 20px;
+    margin-bottom: 100px;
   }
 
   .img5,
